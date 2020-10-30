@@ -40,6 +40,7 @@ ul {
     transition: color 0.15s;
 }
 .item:hover {
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.244);         /*          changes        */
     border-color:  rgb(93, 144, 255);
     color: rgb(93, 144, 255);
 }
